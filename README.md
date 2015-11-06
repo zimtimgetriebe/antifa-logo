@@ -11,7 +11,7 @@ By using the [stacking technique](http://fortawesome.github.io/Font-Awesome/exam
 
 ### How to use this
 
-You can use `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">` to include a minified and _<abbr title="Content Delivery Network">cdn</abbr>'ed_ version of Font Awesome in your document. From there you simply add the content of [style.css](https://github.com/zimtimgetriebe/antifa-logo/blob/master/style.css) or include it's raw from this github repository: `<link rel="stylesheet" href="https://raw.githubusercontent.com/zimtimgetriebe/antifa-logo/master/style.css">`.
+You can use `<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">` to include a minified and _<abbr title="Content Delivery Network">cdn</abbr>'ed_ version of Font Awesome in your document. From there you simply add the content of [style.css](https://github.com/zimtimgetriebe/antifa-logo/blob/master/style.css) or include it's minified (0.443kb) raw from this github repository: `<link rel="stylesheet" href="https://raw.githubusercontent.com/zimtimgetriebe/antifa-logo/master/style.min.css">`.
 
 Insert this inside `<body>` where you want it to be:
 ```html
